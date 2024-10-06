@@ -1,0 +1,17 @@
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+    "name": "Paul France M. Detablan",
+    "number": "09295105245"
+}
+
+###
+
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+    "name": "Paul France M. Detablan",
+    "number": "1234"
+}
